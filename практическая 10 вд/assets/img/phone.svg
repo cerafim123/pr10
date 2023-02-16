@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg15"
+   version="1.1"
+   viewBox="0 0 63.999998 63.999998"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   sodipodi:docname="phone.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="969"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="4.0492775"
+   inkscape:cx="19.633132"
+   inkscape:cy="29.141001"
+   inkscape:window-x="0"
+   inkscape:window-y="33"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg15" />
+ <defs
+   id="defs4">
+  <style
+   id="style2"
+   type="text/css">
+    .fil0 {fill:#1B1C1F}
+    .fil1 {fill:#1B1C1F;fill-rule:nonzero}
+  </style>
+ 
+  
+  
+ </defs>
+ <g
+   id="g841"><path
+     style="fill:#ffffff;fill-rule:nonzero;stroke:#000000;stroke-width:3.00002813;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 32.0007,3.499774 v 0.0076 h -0.0015 v -0.0076 C 24.137957,3.499979 17.014559,6.692687 11.854236,11.853343 6.693137,17.01433 3.5003336,24.138391 3.5003336,31.99936 h 0.00754 v 0.0015 h -0.00754 c 2.056e-4,7.861188 3.1929145,14.984583 8.3535714,20.144906 5.160989,5.161097 12.28505,8.353901 20.146019,8.353901 v -0.0075 h 0.0015 v 0.0075 c 7.86119,-2.06e-4 14.984588,-3.192914 20.14491,-8.353568 5.1611,-5.160987 8.353903,-12.285052 8.353903,-20.146016 h -0.0075 v -0.0015 h 0.0075 C 60.500085,24.137393 57.307376,17.013996 52.14672,11.853677 46.985731,6.692577 39.861668,3.499774 32.0007,3.499774 Z"
+     id="path10"
+     inkscape:connector-curvature="0" /><g
+     transform="matrix(1.0294794,0,0,1.0294794,2.0000105,1.9998856)"
+     id="_152222920">
+   <path
+   style="fill:#1b1c1f"
+   d="m 24.186,22.5 c -5.4466,3.1445 2.8637,18.724 8.8237,15.283 1.0584,1.8332 4.4676,7.7381 5.526,9.5712 -2.5146,1.4519 -4.6432,2.3671 -7.5585,0.70054 -8.0946,-4.6273 -17.005,-20.054 -16.751,-29.256 0.08805,-3.196 1.971,-4.4482 4.434,-5.8702 1.0584,1.8332 4.4676,7.738 5.526,9.5712 z"
+   class="fil0"
+   id="_152222248"
+   inkscape:connector-curvature="0" />
+   <path
+   style="fill:#1b1c1f"
+   d="m 26.47,22.24 c -0.58849,0.33978 -1.3458,0.13697 -1.6856,-0.45158 l -5.2095,-9.0232 c -0.33984,-0.58862 -0.13704,-1.3459 0.45152,-1.6857 l 2.738,-1.5808 c 0.58855,-0.33984 1.346,-0.13685 1.6858,0.4517 l 5.2095,9.0231 c 0.33978,0.58849 0.13691,1.3458 -0.45158,1.6856 l -2.738,1.5808 z"
+   class="fil0"
+   id="_150519168"
+   inkscape:connector-curvature="0" />
+   <path
+   style="fill:#1b1c1f"
+   d="m 40.702,46.89 c -0.58849,0.33978 -1.3458,0.13697 -1.6856,-0.45164 l -5.2095,-9.0232 c -0.33984,-0.58855 -0.13704,-1.3459 0.45152,-1.6856 l 2.738,-1.5808 c 0.58855,-0.33978 1.346,-0.13679 1.6858,0.4517 l 5.2095,9.0231 c 0.33978,0.58855 0.13691,1.3459 -0.45158,1.6856 l -2.738,1.5808 z"
+   class="fil0"
+   id="_226148072"
+   inkscape:connector-curvature="0" />
+  </g></g>
+<metadata
+   id="metadata13"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+           rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title></dc:title></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
